@@ -1,0 +1,9 @@
+G:\Project\CitizenIdDictionaryApp\CitizenIdDictionaryApp\bin\Debug\CitizenIdDictionaryApp.exe.config
+G:\Project\CitizenIdDictionaryApp\CitizenIdDictionaryApp\bin\Debug\CitizenIdDictionaryApp.exe
+G:\Project\CitizenIdDictionaryApp\CitizenIdDictionaryApp\bin\Debug\CitizenIdDictionaryApp.pdb
+G:\Project\CitizenIdDictionaryApp\CitizenIdDictionaryApp\obj\Debug\CitizenIdDictionaryApp.csprojResolveAssemblyReference.cache
+G:\Project\CitizenIdDictionaryApp\CitizenIdDictionaryApp\obj\Debug\CitizenIdDictionaryApp.DictionryUI.resources
+G:\Project\CitizenIdDictionaryApp\CitizenIdDictionaryApp\obj\Debug\CitizenIdDictionaryApp.Properties.Resources.resources
+G:\Project\CitizenIdDictionaryApp\CitizenIdDictionaryApp\obj\Debug\CitizenIdDictionaryApp.csproj.GenerateResource.Cache
+G:\Project\CitizenIdDictionaryApp\CitizenIdDictionaryApp\obj\Debug\CitizenIdDictionaryApp.exe
+G:\Project\CitizenIdDictionaryApp\CitizenIdDictionaryApp\obj\Debug\CitizenIdDictionaryApp.pdb
